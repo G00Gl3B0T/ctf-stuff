@@ -1,4 +1,4 @@
-# Interesting sites, I'm not a fan of browser bookmarks
+# Interesting sites go here
 
 Google XSS game: https://xss-game.appspot.com
 
