@@ -14,3 +14,8 @@
 
 ## Miscellaneous
 - http://www.danstools.com (useful web tools)
+
+## Blogs
+- https://ma.ttias.be
+- https://funoverip.net
+- http://labs.detectify.com/
