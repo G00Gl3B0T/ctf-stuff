@@ -1,8 +1,7 @@
-# Interesting sites go here
+# Interesting stuff goes here
 
-
-
-Pentesting tips & tricks: https://jivoi.github.io/2015/07/01/pentest-tips-and-tricks/
+## Reading material
+- Pentesting tips & tricks: https://jivoi.github.io/2015/07/01/pentest-tips-and-tricks/
 
 ## Challenges: 
 - CTF-like challenges: https://exploit-exercises.com/ (shell exploits, buffer overflows, ...) - Linux
