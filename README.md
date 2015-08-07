@@ -6,3 +6,8 @@
 ## Challenges: 
 - CTF-like challenges: https://exploit-exercises.com/ (shell exploits, buffer overflows, ...) - Linux
 - Google XSS game: https://xss-game.appspot.com
+
+## Tools:
+- https://github.com/enaqx/awesome-pentest#tools (pentesting)
+- https://github.com/rshipp/awesome-malware-analysis#tools (malware analysis)
+- http://sectools.org/
