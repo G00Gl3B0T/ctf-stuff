@@ -1,6 +1,6 @@
 # Interesting stuff goes here
 
-## Reading material
+## Reading material:
 - Pentesting tips & tricks: https://jivoi.github.io/2015/07/01/pentest-tips-and-tricks/
 
 ## Challenges: 
