@@ -17,3 +17,4 @@
 - https://funoverip.net
 - http://labs.detectify.com/
 - https://jivoi.github.io/
+- https://mobilesecuritywiki.com/
