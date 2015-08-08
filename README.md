@@ -8,6 +8,7 @@
 - https://github.com/enaqx/awesome-pentest#tools (pentesting)
 - https://github.com/rshipp/awesome-malware-analysis#tools (malware analysis)
 - http://sectools.org/
+- https://pentest-tools.com/home
 
 ## Miscellaneous
 - http://www.danstools.com (useful web tools)
