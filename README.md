@@ -1,8 +1,5 @@
 # Interesting stuff goes here
 
-## Reading material
-- Pentesting tips & tricks: https://jivoi.github.io/2015/07/01/pentest-tips-and-tricks
-
 ## Challenges
 - https://exploit-exercises.com (CTF-like challenges: shell exploits, buffer overflows, ...) - Linux
 - https://xss-game.appspot.com (Google XSS game)
@@ -19,3 +16,4 @@
 - https://ma.ttias.be
 - https://funoverip.net
 - http://labs.detectify.com/
+- https://jivoi.github.io/
