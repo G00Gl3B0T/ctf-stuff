@@ -7,6 +7,9 @@
 ## Tools
 - https://github.com/enaqx/awesome-pentest#tools (pentesting)
 - https://github.com/rshipp/awesome-malware-analysis#tools (malware analysis)
+- https://github.com/ashishb/android-security-awesome (android security)
+- https://github.com/apsdehal/awesome-ctf (CTF collection)
+- https://github.com/carpedm20/awesome-hacking (general hackery)
 - http://sectools.org/
 - https://pentest-tools.com/home
 
