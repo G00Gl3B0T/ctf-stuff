@@ -10,6 +10,7 @@
 - https://github.com/ashishb/android-security-awesome (android security)
 - https://github.com/apsdehal/awesome-ctf (CTF collection)
 - https://github.com/carpedm20/awesome-hacking (general hackery)
+- https://github.com/zardus/ctf-tools (script to quickly get with some tools)
 - http://sectools.org/
 - https://pentest-tools.com/home
 
