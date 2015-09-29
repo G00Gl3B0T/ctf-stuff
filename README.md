@@ -26,4 +26,4 @@
 - https://jivoi.github.io/
 - https://mobilesecuritywiki.com/
 - http://blog.techorganic.com/
-- http://pentestmonkey.net/
+- http://pentestmonkey.net/ (kind of outdated)
