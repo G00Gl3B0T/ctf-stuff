@@ -25,3 +25,4 @@
 - http://labs.detectify.com/
 - https://jivoi.github.io/
 - https://mobilesecuritywiki.com/
+- http://pentestmonkey.net/
