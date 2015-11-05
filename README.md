@@ -18,6 +18,7 @@
 - http://www.danstools.com (useful web tools)
 - http://www.garykessler.net/library/file_sigs.html (file signatures)
 - http://dfir.org/?q=node/8 (books)
+- http://ix.io  (command line pastebin)
 
 ## Blogs
 - https://ma.ttias.be
