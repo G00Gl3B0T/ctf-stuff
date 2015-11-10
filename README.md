@@ -19,6 +19,7 @@
 - http://www.garykessler.net/library/file_sigs.html (file signatures)
 - http://dfir.org/?q=node/8 (books)
 - http://ix.io  (command line pastebin)
+- https://dfirblog.wordpress.com/2015/11/08/protecting-windows-networks-defeating-pass-the-hash/
 
 ## Blogs
 - https://ma.ttias.be
