@@ -30,3 +30,4 @@
 - http://blog.techorganic.com/
 - http://pentestmonkey.net/ (kind of outdated)
 - http://blog.z3bra.org/
+- http://ctfhacker.com/
