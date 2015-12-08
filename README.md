@@ -20,6 +20,7 @@
 - http://dfir.org/?q=node/8 (books)
 - http://ix.io  (command line pastebin)
 - https://dfirblog.wordpress.com/2015/11/08/protecting-windows-networks-defeating-pass-the-hash/
+- https://github.com/XVilka/hacklu  Radare2 hacklu resources
 
 ## Blogs
 - https://ma.ttias.be
