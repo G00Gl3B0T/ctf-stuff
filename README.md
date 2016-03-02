@@ -1,9 +1,14 @@
 # Interesting stuff goes here
 
+## The ultimate CTF guide
+- https://github.com/apsdehal/awesome-ctf
+
 ## Challenges
 - https://exploit-exercises.com (CTF-like challenges: shell exploits, buffer overflows, ...) - Linux
 - https://xss-game.appspot.com (Google XSS game)
 - https://github.com/ctfs (ctfs write-ups)
+- https://github.com/ctfs (ctfs write-ups)
+
 
 ## Tools
 - https://github.com/enaqx/awesome-pentest#tools (pentesting)
